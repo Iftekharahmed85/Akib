@@ -1,3 +1,3 @@
 # Akib
-This is my repository
+This is my repository.
 Auther Iftekhar Ahmed
